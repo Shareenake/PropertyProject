@@ -1,0 +1,39 @@
+
+[
+  {
+      "Id":1,
+      "Name":"Birla Houses",
+      "Type":"House",
+      "Price":20000
+  },
+  {
+      "Id":2,
+      "Name":"Akbar Houses",
+      "Type":"Villa",
+      "Price":20000
+  },
+  {
+      "Id":3,
+      "Name":"Nandanam Property",
+      "Type":"Villa",
+      "Price":20000
+  },
+  {
+      "Id":4,
+      "Name":"Trichur Builders",
+      "Type":"House",
+      "Price":20000
+  },
+  {
+    "Id":5,
+    "Name":"Payal Residense",
+    "Type":"House",
+    "Price":20000
+  },
+{
+  "Id":6,
+  "Name":"Akash Buiders",
+  "Type":"House",
+  "Price":20000
+}
+]
